@@ -27,6 +27,7 @@ SECRET_KEY = 'f#c22^0t&cp+alc!1@0@pny-o8v86dct-+&qlou8f^fet%#5-f'
 DEBUG = True
 
 ALLOWED_HOSTS = [
+    'sns-k-app.herokuapp.com',
     '127.0.0.1' #add
 ]
 
